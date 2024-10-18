@@ -1,8 +1,8 @@
-import Footer from "./components/footer"
-import Header from "./components/Header"
-import Hero from "./components/Hero"
-import Products from "./components/Products"
-import Sale from "./components/Sale"
+import Footer from "../components/footer"
+import Header from "../components/Header"
+import Hero from "../components/Hero"
+import Products from "../components/Products"
+import Sale from "../components/Sale"
 
 function Homepage(){
 return(
